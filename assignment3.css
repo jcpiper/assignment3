@@ -1,1 +1,11 @@
 /*styles for assignment 3*/
+
+html, body {
+  font-family: Century Gothic, Georgia, sans-serif;
+}
+
+section {
+  margin: 15px;
+  border: solid black;
+  background-color: darkgray;
+}
